@@ -4,7 +4,7 @@
 ![last commit](https://img.shields.io/github/last-commit/sandstreamdev/eoc)
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 
-An app made by Sandstream Development team, to track office inventory, groceries, and even your daily tasks!
+An app made by Sanddev team (https://sanddev.com/), to track office inventory, groceries, and even your daily tasks!
 
 ## Main application tech stack
 
